@@ -34,7 +34,7 @@ h1{
 }
 input{
     margin: 10px;
-    width: 35%;
+    width: 50%;
     font-size: 20px;
 }
 
@@ -49,7 +49,7 @@ input{
 
 .botao{
     padding: 5px;
-    width: 35%;
+
     background-color: yellow;
     text-transform: uppercase;
     font-weight: bold;
@@ -57,7 +57,7 @@ input{
 }
 .botao2{
     padding: 5px;
-    width: 35%;
+
     background-color: rgb(103, 103, 214);
     text-transform: uppercase;
     font-weight: bold;
